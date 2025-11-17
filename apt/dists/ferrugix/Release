@@ -1,17 +1,23 @@
-Date: Mon, 17 Nov 2025 10:32:49 +0000
+Architectures: amd64
+Codename: ferrugix
+Components: main
+Date: Mon, 17 Nov 2025 11:16:48 +0000
+Label: Ferrugix OS
+Origin: Ferrugix OS
+Suite: ferrugix
 MD5Sum:
- 5590f6778b87a16ebe2296a5bc013545               38 Release
+ 764d837f476f6f366f4b9110043136f0              150 Release
  2db2de926eaef16cd5a17fd74c807b27            35439 main/binary-amd64/Packages
  c5effcb80860abb651ae2a68b8b7ad34             9119 main/binary-amd64/Packages.gz
 SHA1:
- b05692abff82a0a444fb5cc84c471aa0f6d1fed1               38 Release
+ a81bd8afbbaac1a527230c5cb595d91c6086bdb4              150 Release
  50ad3f05b709412bab63d5fd5f4e6faf8a40ddf3            35439 main/binary-amd64/Packages
  7fda044fbcff34ff02108ec345712987b935922a             9119 main/binary-amd64/Packages.gz
 SHA256:
- d8fdf14e3eab2af247ff03aac60c92388909ccb4b17e02dacc06883660025bca               38 Release
+ 74694d6daba12690c410d271f01b294f89bb12e5c91eff4451af053f6f2d9347              150 Release
  2c82410dbfb06949c9b2f0a49a4bcf5adb7d56ee807812e9ae3d5cb426005191            35439 main/binary-amd64/Packages
  c0022d6d56ddb3a49d8d98759ebe93bd4c0b9cf42cd88d45b7041cd30a7f14ba             9119 main/binary-amd64/Packages.gz
 SHA512:
- dbf04392823a89da9d3f022b5720d0fe25075fe9bbd8752110d5d675b7cff6b465f3d641909d38c2e92c2a9a0e983b89481e41bc937529e270457196a1fe88eb               38 Release
+ 2adb4f802a8055fdadfe5050aa790e392c3bb4f906561c6f868a5839db8a4ca46dd7886ae4ce686e442fea62783178173705a93a8694bbbca6053fc0227f1c1d              150 Release
  c591415aa32721796f12e344d90695861a493525953656519b07312c143bc771a2500568f6381787e33ea381f38f1e0b31244ed708895ecd457055846eb1f785            35439 main/binary-amd64/Packages
  f64db06441bb04e4bccb02c30567929d56a76841d4b804e0ede1250009557c7750205718bdc39fb4e7b4d1f780f1f3d5283e0f869fee8d164a3d77007536d35f             9119 main/binary-amd64/Packages.gz
