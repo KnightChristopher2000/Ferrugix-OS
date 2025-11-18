@@ -1,36 +1,43 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Tue, 18 Nov 2025 09:58:02 +0000
+Architectures: amd64
+Codename: ferrugix
+Components: main
+Date: Tue, 18 Nov 2025 12:21:57 +0000
+Label: Ferrugix OS
+Origin: Ferrugix OS
+Suite: ferrugix
 MD5Sum:
- c7c0ce4a924cbe7fd1ae803ee9bb954b               38 Release
+ 3ed36c1646eaac71c33d434784fa9b0f              150 Release
  c18097bbbf55a2ab9a96380c10b40439            39553 main/binary-amd64/Packages
- 97cdaff2839d4cf4f21352e42087ce25            10214 main/binary-amd64/Packages.gz
+ c5c7954587c478fb104237b08b417914            10214 main/binary-amd64/Packages.gz
 SHA1:
- 089581d551683b67598b1ffde862d361de08367a               38 Release
+ 77fa633a1fdaf1088b68716d304723611a15f76e              150 Release
  27dd5d831ecc9e85ec850682ca8344c71796806d            39553 main/binary-amd64/Packages
- 5a614ac270c8b8bee7153f5f6c610714406107b9            10214 main/binary-amd64/Packages.gz
+ b970731b7928deb68c15dde0c575d25b399a3525            10214 main/binary-amd64/Packages.gz
 SHA256:
- d3874f51ba43f62fa2ed2f1892d6c71eb30d4a3e6862d61472ef999ce69c89dc               38 Release
+ 408a76dc3d8daf8eea7f18c25907f50c996ee41cd4691d4b1aaf9f984b0a1b30              150 Release
  849019b46c686fc8a9c983d003395de0c99e42eded6912161f55b79dbdba15d6            39553 main/binary-amd64/Packages
- 262fca0eda7cf8c9b0ab2e1780ba40ab5c2cb7af2915cee746773982b79286b4            10214 main/binary-amd64/Packages.gz
+ dd3285a3b0971bebbb2582e28a91fb790bc6f3ec1bf07d7e89199df32731ac74            10214 main/binary-amd64/Packages.gz
 SHA512:
- d4d5fe434ccd08a2a93e12f62418cdece24ed8a686511bf7039a6adffeeb9b0bd71676cf5f82dcd91eb7d0f76ff2da9447f4dbe7a224d653ddd94ffbf2dbc5bd               38 Release
+ 4f71f958d64585a10be5d85fd1d507082f7bd094bd50640f471b78871889e197dba9d6a937d5540b2750c32fac39ad9f6305d8e7043d845f6081821b4a1e91aa              150 Release
  48ca299569f33e31e3c2085b46a647c08a55273f22b11662193e58597b7e289453949c05f28ac6e1e8840928585532c1d199a2d1fb3142b90440d5c185664e6f            39553 main/binary-amd64/Packages
- 53ed87689a1cc920b4da9d246da8f9988c080e80653b8b8078f1915c4a0bc487141c4cf39cf154e6323e3072536b24e8cc5fb390db7ea04d27459cda01b2d12e            10214 main/binary-amd64/Packages.gz
+ c098d9246de461b6da16d22b2d20115fd891c81111334d0b0b4c65b950522654f0aff0a131171268e3e97fb099a4321ab9c75635e057d2c1bcbd965f739a7292            10214 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEcD1RwvLNtgvyv4hjDIQKQ8O1Mm4FAmkcQz0ACgkQDIQKQ8O1
-Mm6aZRAAoSj8Cs154icunx6xLBpH+PtFbp7xx1eTXmC6kyLOIEDrPzXwgxUCzeld
-QM2D0bARXb5nzYhjOuq2RQVomES1YIF+xAuLKBiRhXq6AE5PbIQL5wJxJX4Ey/Gz
-jbcOqvrBiiziNGjG3/9Yt5LJYY6avkeVoKCqdA61a3brcErczB5NzLL4A7o22K8b
-MaLv5yp5xHO52aia9+BSCCKrnw7L7Tzp2rD4tTqUVOroRqh8ivtf2sX7g64OWd/m
-rUzrHHtv0+oI6d7FaR2hskOudT53cvKu/iURQRtqlCGlX1uokrQUg/xMuWm2jpya
-8P3tX+DE/pJjtedWOxJiiXa6v9bJiHZaLKC2swr3Xb4haPg5U02T0+qG410a2vzT
-nmrsaNKEHI8TDPAdPvZKy3zr44aComXQu2pni2Jt/xn5ASFcFcSZZfp6a2qOi2ZU
-RZ/pTWWsYWCSRf+lIubAig5vCQm2URwbpc9lou0c2oTJuK41c1Mzx9nAwQNT7WfE
-LSLcdgpmwpnQkGn8SGoyGWSzENgJQWjjP+IfWlgBh6BUHBq6KKsslC8KOLzlynp5
-1lBKV/gMyZqKypsPessr3Nvsn/o1+u34Eoj9op7hhr74pM3N5Ytpibw0bffa/Pyr
-Ic06Zzgj31lfhNqe/i7bXf81s63LiIGkA32ko25QUACmQKmZteI=
-=GBr5
+iQJQBAEBCgA6FiEEcD1RwvLNtgvyv4hjDIQKQ8O1Mm4FAmkcZPEcHGZlcnJ1Z2l4
+LWFwdEBmZXJydWdpeC5sb2NhbAAKCRAMhApDw7Uybuf8D/9Lrq/BfExkzF4mOGLX
+TwCwsyr7k26LQEvHNgFnZT7nql3k/VQe64k6Uk/isf3RqLjaaDCTcaVUjpz+1pF+
+wwrbMY/iG38unEVjb+iPA7yJ+LJrT+A2BARMV6Mm/2DHtALN7hY+fW+g3ipfy+j6
+1cQsBVrnHiaxb7eLdBLGaQUMb2F3V0/HfIcO8/Mw9yLG3Gvhv2bbuKFqLvzjW+eZ
+HmlAf8dHUGh++l/xwgyy+38seNWSITkyVDCeAI7o4Yzpug5w5dJdWY9Dw6cYRc/n
+8/TFRYu2N2mKHEpLidvVIHZpsOwyhWNsEEtj8wB3qvBt1dVb85JaIIjfawF1fifn
+TOgOLbFZATcy23mcD+/Y3lnoscCLTN1eO/mMxfjZY883eKnbOGyhi2JPSpeScdO0
+1egsMjAjQDJFmswkP5ESJIYYvv+s8DLOcTU+QCY3Zva0pXXTL6oL6KK2SCYw2H8D
+VizHQD+7bFvPF8l7jfnxEHGMaLthJJyUabw1o+aJey2+70wavFkz4aIPoGrnDqZc
+LHmgUrciCE6Kcm4mOEZqzaaFhgiaexzbz1pcKB2b9lmkMQbzzhonA0qf/0YdSSzD
+Mf9jv7zTpzrFvlOUfSui26i1A5rIshTmamUubUOHCVVcu8mLU5sACrnV/ngno/H7
+rpUMUIMryDh3jrBNIbjRW8c9WQ==
+=nEgs
 -----END PGP SIGNATURE-----
