@@ -38,12 +38,13 @@ Package: ferru-branding
 Version: 0.1.0-1
 Architecture: amd64
 Maintainer: Christopher M. Bryan <christoferus.21@gmail.com>
-Installed-Size: 407
+Installed-Size: 1722
+Depends: grub-common, plymouth, initramfs-tools
 Filename: pool/main/f/ferru-branding_0.1.0-1_amd64.deb
-Size: 155858
-MD5sum: 7404e01b2e9f313055c1bcb6c7e8b543
-SHA1: 215a3f8e7400b6efc56a7a93e4b96f6a7419a8c9
-SHA256: 8626046057f9ca4ad8fde485d54f088534f626eddeeaf771be5a21a0525b29e2
+Size: 1463964
+MD5sum: 42132664046d9cb59c00a7ef3a51b8a1
+SHA1: 43f2c901a3defd4f9c9152473c0cbbd93143bd85
+SHA256: c85db00ada90854ccb926300168e4019678c4f5b6253559e995690927e89425d
 Section: misc
 Priority: optional
 Description: Ferrugix OS branding for Debian-standard files
