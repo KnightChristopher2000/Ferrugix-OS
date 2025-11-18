@@ -995,10 +995,10 @@ Maintainer: Christopher M. Bryan <christoferus.21@gmail.com>
 Installed-Size: 388
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2)
 Filename: pool/main/f/ferrugix-archive-keyring_0.1.0-1_amd64.deb
-Size: 150228
-MD5sum: f9226c4d27d3fb8497a207e080a296ab
-SHA1: e27b142166e52987c21f8ae9556ccf782851fd71
-SHA256: 32d57723a982c0d1491ec5e4790c34ff834a2a9dee666a03f542b5f3f998f449
+Size: 151710
+MD5sum: eba4bf46a07c19701641bc02cb721bec
+SHA1: ad156c2f27ef68c6578c3e495c54dc5d6c8a01bf
+SHA256: 8ac18d1855d5b0f84f158718639f064ed68bdb9370cbf0d0b43d0986ef2557bf
 Section: admin
 Priority: optional
 Description: Ferrugix OS APT repository keyring
