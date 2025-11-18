@@ -1,38 +1,36 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Codename: ferrugix
-Date: Tue, 18 Nov 2025 15:52:48 +0000
-Suite: ferrugix
+Date: Tue, 18 Nov 2025 18:05:02 +0000
 MD5Sum:
- 20dcd8527596c55e58f1a8f4ff3d3767               73 Release
+ 516fd9468616f1c53a92dd99bb55de5b               38 Release
  f4806f75f485a12cbb8e5723a4e292a1            40420 main/binary-amd64/Packages
  32e36902b4febed6e2258ce1108b205a            10555 main/binary-amd64/Packages.gz
 SHA1:
- c809710fcbbeeec6f13755fe3b890bcab6cd02b2               73 Release
+ 5f2c8d650c31bfe148d1dd7243cfecbaa60f652e               38 Release
  50d7f9898ded6ad99e10fb9740a3ccb37a4e487d            40420 main/binary-amd64/Packages
  2e5ca29d695945ea050faac53a127515f552a6d9            10555 main/binary-amd64/Packages.gz
 SHA256:
- f41b473f730c1703b2d11c557adcf4fc224827d37720cdf8467b7d6e3cf2df07               73 Release
+ c14e69b7294cef065caeb8e90fb0dca8d06e99b5df286a2356dc121309522737               38 Release
  66a5184a83a24e932fd1a2d2c84406ca807c9ca0a9f6437a5fbaa375be1d0ad5            40420 main/binary-amd64/Packages
  33838ecc586b974742cd0488960bbda86e2f39051f80a5877f9a821d2ae5a353            10555 main/binary-amd64/Packages.gz
 SHA512:
- e174ecef4ac990654c80fc16e0b1d90493d0742389604b174e09989493467405f29eda0753347749b7535d9bd7b5eebb59f646250fb18abf8f2a445e1324ad0d               73 Release
+ 7ab4906ac7287d677b1c0f127c1ea6d26d1e920fad84aece41c40290993e9819ee06029acd3aa2f19d0ed82d6e7f1b152f86a406f657a4d96affee81c710a847               38 Release
  397ba6b9bc040cfc73104c60ea47d9ecab684d15c43cd7c58ff696628287333659486a4723aac2ce6ee51b03e07fb29d43d457e1d19460b38716eb6bfe341b1e            40420 main/binary-amd64/Packages
  50feb881aca36e1bd5dc1a9f5d546ae7964eefba658936ac778cdd958e66437c82301498f7a884d23afdce93587fddf560f71c4d28956ac1d59e4ae60b5c97f3            10555 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEcD1RwvLNtgvyv4hjDIQKQ8O1Mm4FAmkcllQACgkQDIQKQ8O1
-Mm6mpg/9H9Lc5ivUrzVGAAzLbu2lNS+nOCuxPG0I5O5QO6F9+1vcwaq5AhZTH34w
-iF5aUc6nk4crftGoPBSNVMdnuemBxUvbarMfAsJzEDPO87i+aj8VRpINHozqaAuD
-b4R/Lj4zTqcOFwv0/12qNFr1mA9ukZ2LKZCKNm4Pb0KL5veYwi86C/r0F/T08nqH
-x/YZ8QFr8jOS1i7AWVtEGqc+s0jRY6vng21ArQmwPDBOhz+NFxiYYxi5dt05v5uD
-PHef6XD7uBXmG7QZo63XNatt1cQ0XCoRp0r99Lw1Dp9yjbbIu66aeX4850/ZRsiz
-bz+gKzuB5gJXKDEwIua9dwZu3lwSanZpTj839Uz0U+cSEv9xgde3I7Q1mc0d37yI
-ERBJFRnt+IqUIzPJBr1eK8piXrIFA1H/D8sNn+5QlDQ7ycp9AId6o0MbyvYno/xY
-pzotTu0CJpxb6c31694Pf6Q1MZB3kJb0aWxYYPDUx9qFDEkbtzg8pZG3FmKOt/gc
-4iKw/LUMIAGJeHEs0ZX5L/WW41tMMfq1priQtIGmkx1WtMKSdYWajaTZa4/Yh0lQ
-htbXLsEbxYCOsFIfGP7snaC5LkVvdyCRoEx/eJAX8xM3FXOBhRWy4nw/v54djaOS
-m61g841idZfH+AbUH8F7RUYhvjCgrrNmrt5R3mES0FA+ZsA7oD0=
-=XFKV
+iQIzBAEBCgAdFiEE+7E42vQjVw7ZPKmnm28xYDDWTQ4FAmkctWcACgkQm28xYDDW
+TQ6TZw//QyUq1q13YCmH9oChBmpCh/3kGW9+APBRxame2xfkvw0iljiv/XoBxJT0
+/GLdyrekfr1ARy52H43XwNzlo9UmnTbfYZfKwUD1pW2CDcf/2R449otrDMcKbYIv
+ISR6/1ybiehCQUh/1pyMEHaLqzwqO88dBjy0cMkU0nlaGp1UA5C6LFrbsVgdeIuU
+Ua4DKgiG77iVAF1zaPBGntLjXtS2VYxwdfRtYcYzdMpCAlBVjWadRRhiU0ukNhsz
+d+VZ0wNV99DFXdqoEW/o7vHupv3BORPpUN344EYoqVwne1gB26jDyqO0DQibeZLT
+csbWxt+xa7WY0wJ674OVtR+KfCKvywMlKXJUMhCx+LTEoe7YYqHum2Pt7FOWtGfr
+DYKxmenDTzWo1MQLEY/x/dsO/CpFmwbUffaTKfkF+6q9SFs42JTzQPWNypylQ8ZR
+k8BgfRDbOPhaIKFw7vQUk/ESOTkpgJItfhP9hq6qtOorUGMwpwhwczuYx6m/v2uT
+a8NtF8qkjQrwSeJbOvx6ZakWXPfT2nmKasqsOPATtA7duzYesj6Mk8b+YG3sg6Qf
+ENgkIuFW9y2nJ+4R7BllE/hLd7yUAKxTRkYqb9ILLkAdZ8bF2gfXaiOopm8/m1z4
+AS99NPyfKeR3QsYZhtonmMcjzmeoV3DsiVaRv4bWGCaMwmPg0o8=
+=xJJ8
 -----END PGP SIGNATURE-----
