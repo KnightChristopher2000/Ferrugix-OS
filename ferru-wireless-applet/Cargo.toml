@@ -1,0 +1,16 @@
+[package]
+name = "ferru-wireless-applet"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "ferru_wireless_applet"
+path = "src/lib.rs"
+
+[[bin]]
+name = "ferru-wireless-applet"
+path = "src/main.rs"
+
+[dependencies]
+gtk = { package = "gtk4", version = "0.10" }
+adw = { package = "libadwaita", version = "0.8" }
